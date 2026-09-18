@@ -6,3 +6,4 @@ nltk
 joblib
 scipy
 streamlit-lottie
+imbalanced-learn
